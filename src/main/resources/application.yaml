@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mybatis-flex-springboot3
+  sql:
+    init:
+      mode: always
